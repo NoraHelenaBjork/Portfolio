@@ -14,7 +14,7 @@ function Footer({ scroll }) {
           <SocialMediaWrap>
             <SocialIcons>
               <SocialIconLink
-                href='https://github.com/Jonteflower'
+                href='https://github.com/NoraHelenaBjork'
                 target='_blank' aria-label='Github' color={!scroll ? '#f1f1f1' : '#f1f1f1'}>
                 <FaGithub />
               </SocialIconLink>
@@ -24,7 +24,7 @@ function Footer({ scroll }) {
                 <FaLinkedinIn />
               </SocialIconLink>
               <SocialIconLink
-                href='https://www.discordapp.com/users/Jonteflower#1427'
+                href='https://www.discordapp.com/users/Tixy#1714'
                 target='_blank' aria-label='Discord' color={!scroll ? '#f1f1f1' : '#f1f1f1'}>
                 <FaDiscord />
               </SocialIconLink>
