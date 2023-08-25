@@ -70,12 +70,11 @@ const MiddleButton = styled.button`
 
 const NameLogo = styled.h2`
   text-align: left;
-  font-size: 1.2rem;
-  font-weight: 600;
+  font-size: 1rem;
+  font-weight: 500;
   margin: 0px;
-  font-family: 'Playfair Display', serif;
+  //font-family: 'Playfair Display', serif;
   padding-left: 20px;
-
 `;
 
 
