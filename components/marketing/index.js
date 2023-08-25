@@ -28,7 +28,7 @@ const marketingObjects = [
   },
   {
     title: "Guerilla marketing",
-    text: "With Tixy i helped develop a campaign where we through QR code posters managed to attract many users around the LoolaPalooza event in Stockholm. With posters scattered outside the entrances. ",
+    text: "With Tixy I helped develop a campaign where we through QR code posters managed to attract many users around the LoolaPalooza event in Stockholm. With posters scattered outside the entrances. ",
     image: "",
     image: "/images/marketing/palooza.png",
     skills: [ "Canva", "Photoshop", "Marketing"]

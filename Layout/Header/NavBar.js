@@ -154,7 +154,7 @@ export default function NavMenu({ aboutScroll, techScroll, marketingScroll, cont
             <NumberedHeader number={3} onClick={marketingScroll}>Marketing</NumberedHeader>
             <NumberedHeader number={4} onClick={contactScroll}>Contact</NumberedHeader>
             <MiddleButton>
-              <a href='/images/general/resume.png' target="_blank" rel="noopener noreferrer">Resume</a>
+              <a href='/images/general/resume1.png' target="_blank" rel="noopener noreferrer">Resume</a>
             </MiddleButton>
           </ButtonsInner>
 
