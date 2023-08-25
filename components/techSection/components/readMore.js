@@ -7,7 +7,9 @@ const InlineText = styled.p`
   width: 100%;
   text-align: center;
   margin: auto;
-  font-size: 1rem;
+  font-size: 1.1rem;
+  line-height: 130%;
+  letter-spacing: 0.4px;
 
 `
 

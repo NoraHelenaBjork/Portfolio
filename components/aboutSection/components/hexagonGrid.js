@@ -17,7 +17,7 @@ const RowContainer = styled.div`
     align-items: center;
     justify-content: center;
     height: auto;
-    gap:10px;
+    gap:15px;
     width: auto;
     @media (max-width: 480px)  {
         gap:10px;
@@ -32,7 +32,7 @@ const ColumnContainer = styled.div`
     justify-content: center;
     height: auto;
     width: auto;
-    gap:10px;
+    gap:15px;
     
     @media (max-width: 480px)  {
         gap:7px;

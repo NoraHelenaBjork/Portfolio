@@ -12,7 +12,7 @@ const ColumnContainer = styled.div`
     align-items: flex-start;
     justify-content: space-evenly;
     height: 100%;
-    gap:15px;
+    gap:10px;
     width: 100%;
 
   @media screen and (max-width:1200px) {
@@ -35,7 +35,7 @@ const StyledArticle = styled.div`
     justify-content: flex-start;
     align-items: center;
     width: 100%;
-    max-width: 45vw;
+    max-width: 40vw;
     gap: 30px;
     //color: ${greyText};
 
