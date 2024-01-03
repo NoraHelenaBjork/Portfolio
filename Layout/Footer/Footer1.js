@@ -19,7 +19,7 @@ function Footer({ scroll }) {
                 <FaGithub />
               </SocialIconLink>
               <SocialIconLink
-                href='https://www.linkedin.com/in/nora-bjork'
+                href='https://linkedin.com/in/nora-björk-69a49b23a'
                 target='_blank' aria-label='LinkedIn' color={!scroll ? '#f1f1f1' : '#f1f1f1'}>
                 <FaLinkedinIn />
               </SocialIconLink>

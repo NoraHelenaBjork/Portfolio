@@ -45,7 +45,7 @@ const marketingObjects = [
     text: "Collaborated with a diverse range of organizations to create digital strategy plans. I offer guidance to craft, evaluate, and execute a dynamic digital strategy, that will transform your visitors into dedicated, long-term users. ",
     image: "",
     image: "/images/marketing/digital1.png",
-    skills: [ "S.W.O.T.", "Wordpress", "Conversions"]
+    skills: [ "S.W.O.T.", "Wordpress", "Copy", "Google Analytics", "SEO"]
   }
 ]
 
