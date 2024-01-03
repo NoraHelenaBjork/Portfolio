@@ -39,6 +39,13 @@ const marketingObjects = [
     image: "",
     image: "/images/marketing/sustainability.png",
     skills: [ "Canva", "Blockchain", "Sustainability"]
+  },
+  {
+    title: "Digital Strategy",
+    text: "Collaborated with a diverse range of organizations to create digital strategy plans. I offer guidance to craft, evaluate, and execute a dynamic digital strategy, that will transform your visitors into dedicated, long-term users. ",
+    image: "",
+    image: "/images/marketing/digital1.png",
+    skills: [ "S.W.O.T.", "Wordpress", "Conversions"]
   }
 ]
 
