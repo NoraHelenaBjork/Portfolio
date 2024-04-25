@@ -45,10 +45,7 @@ export default function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>Nora Björk</title>
-        <meta
-          name="description"
-          content="Swedish full stack developer and startup founder"
-        />
+        <meta name="description" content="Swedish Tech Enthusiast" />
         <link
           rel="icon"
           type="image/ico"
